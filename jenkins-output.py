@@ -1,2 +1,2 @@
 print("hello jenkins")
-print("Let's try to use a GitHub hook now")
+print("Github polling should have this set up and ready to go.")
